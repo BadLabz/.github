@@ -1,2 +1,1 @@
-# .github
 Renamed to BLZFoundry
